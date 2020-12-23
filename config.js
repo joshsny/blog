@@ -16,17 +16,17 @@ module.exports = {
       path: "/",
     },
     {
-      label: "About me",
+      label: "About",
       path: "/pages/about",
     },
     {
       label: "Contact me",
-      path: "/pages/contacts",
+      path: "/pages/contact",
     },
   ],
   author: {
     name: "Joshua Snyder",
-    photo: "/photo.jpg",
+    photo: "/profile.png",
     bio:
       "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
     contacts: {
